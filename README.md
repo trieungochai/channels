@@ -18,3 +18,7 @@
 ![alt text](image-9.png)
 
 ![alt text](image-10.png)
+
+- [Blocking Channel](https://myseco.udemy.com/course/go-the-complete-developers-guide/learn/lecture/7809260#notes)
+![alt text](image-11.png)
+![alt text](image-12.png)
